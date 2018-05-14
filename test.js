@@ -1,6 +1,6 @@
 const sharp = require('sharp')
 const person = require('./index')
-const imageUrl = './ethan-hoover-325427-unsplash.jpg'
+const imageUrl = './ethan-hoover-311143-unsplash.jpg'
 
 const run = async () => {
   const result = await person({ imageUrl });
