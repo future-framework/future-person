@@ -10,13 +10,10 @@
   "dependencies": {
     "@tensorflow/tfjs": "^0.10.3",
     "@tensorflow/tfjs-node": "^0.1.2",
-    "future-framework": "^1.0.2",
-    "get-image-data": "^3.0.1",
-    "get-image-pixels": "^1.0.1",
-    "get-pixels": "^3.3.0",
+    "future-framework": "^1.0.4",
     "lodash": "^4.17.10",
     "node-fetch": "^2.1.2",
     "sharp": "^0.20.2",
-    "tfjs-yolo-tiny": "ModelDepot/tfjs-yolo-tiny"
+    "tfjs-yolo-tiny": "Nedomas/tfjs-yolo-tiny"
   }
 }
