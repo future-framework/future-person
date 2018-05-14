@@ -13,6 +13,7 @@
     "future-framework": "^1.0.2",
     "get-image-data": "^3.0.1",
     "get-image-pixels": "^1.0.1",
+    "get-pixels": "^3.3.0",
     "node-fetch": "^2.1.2",
     "sharp": "^0.20.2",
     "tfjs-yolo-tiny": "ModelDepot/tfjs-yolo-tiny"
